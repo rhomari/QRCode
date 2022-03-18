@@ -18,3 +18,6 @@ sendbutton.addEventListener("click", ()=>{
     request.send(requestdata)
 
 })
+function clickCustomButton(){
+  console.log('clickCustomButton')
+}
